@@ -1,0 +1,19 @@
+baseURL = 'http://eth0.net/blog/'
+languageCode = 'en-us'
+title = 'eth0'
+theme = 'm10c'
+
+[params]
+author = "Shawn K. O'Shea"
+description = "Ramblings on tech"
+avatar = "helmet-avatar.jpg"
+
+[[params.social]]
+  icon = "github"
+  name = "Github"
+  url = "https://github.com/b00ga/"
+
+[[params.social]]
+  icon = "twitter"
+  name = "Twitter"
+  url = "https://twitter.com/b00gamonkey/"
